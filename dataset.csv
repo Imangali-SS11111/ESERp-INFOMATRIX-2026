@@ -1,0 +1,106 @@
+message,label
+"We offer you money if you forward this message",financial_manipulation
+"You will receive a reward after completing this task",financial_manipulation
+"Earn easy money by replying now",financial_manipulation
+"Get paid for sending a short message",financial_manipulation
+"We provide payment for quick participation",financial_manipulation
+"Receive cash after confirming your action",financial_manipulation
+"Make money by sharing this with others",financial_manipulation
+"You are eligible for a financial reward",financial_manipulation
+"Get compensation for helping us",financial_manipulation
+"Payment will be sent after verification",financial_manipulation
+"Quick money opportunity, respond now",financial_manipulation
+"Earn extra income by following instructions",financial_manipulation
+"Money reward is waiting for you",financial_manipulation
+"Receive funds for simple cooperation",financial_manipulation
+"Get bonus payment after this message",financial_manipulation
+"We pay users for participation",financial_manipulation
+"Financial reward available for limited time",financial_manipulation
+"Send one message and get paid",financial_manipulation
+"Easy profit with minimal effort",financial_manipulation
+"Complete a task and receive money",financial_manipulation
+"Answer immediately or your account will be blocked",psychological_pressure
+"This is your last warning",psychological_pressure
+"Urgent response required",psychological_pressure
+"Failure to respond will result in consequences",psychological_pressure
+"Immediate action is necessary",psychological_pressure
+"You must reply within minutes",psychological_pressure
+"Time is running out",psychological_pressure
+"Your access will be restricted soon",psychological_pressure
+"Respond now to avoid problems",psychological_pressure
+"This matter is extremely urgent",psychological_pressure
+"Do not ignore this message",psychological_pressure
+"Final notice before action is taken",psychological_pressure
+"Delay will cause serious issues",psychological_pressure
+"Immediate confirmation needed",psychological_pressure
+"Respond quickly to prevent suspension",psychological_pressure
+"This issue requires your immediate attention",psychological_pressure
+"Act now or lose access",psychological_pressure
+"You are required to respond today",psychological_pressure
+"Urgent security notice",psychological_pressure
+"This cannot wait",psychological_pressure
+"I sell rare digital items, contact me privately",suspicious_commercial
+"Selling exclusive access for a low price",suspicious_commercial
+"Cheap accounts available for sale",suspicious_commercial
+"Limited offer on premium tools",suspicious_commercial
+"Selling confidential materials",suspicious_commercial
+"Private sale of digital goods",suspicious_commercial
+"Rare items available only today",suspicious_commercial
+"Discounted services available now",suspicious_commercial
+"Selling access to restricted content",suspicious_commercial
+"Offer valid for selected users",suspicious_commercial
+"Low price for exclusive resources",suspicious_commercial
+"Selling high-value items cheaply",suspicious_commercial
+"Private deal, write me directly",suspicious_commercial
+"Confidential sale opportunity",suspicious_commercial
+"Special offer not available publicly",suspicious_commercial
+"Hidden market items for sale",suspicious_commercial
+"Unofficial sale of digital products",suspicious_commercial
+"Direct sale without intermediaries",suspicious_commercial
+"Exclusive deal for quick buyers",suspicious_commercial
+"Selling premium access discreetly",suspicious_commercial
+"Hi, how are you?",safe
+"I have an idea to discuss",safe
+"Let's meet tomorrow",safe
+"Can we talk later?",safe
+"I'm selling used furniture",safe
+"Did you finish the task?",safe
+"Please call me when free",safe
+"Thank you for your help",safe
+"Looking forward to your reply",safe
+"Good morning",safe
+"Let's work on this together",safe
+"Can you send the document?",safe
+"I will contact you later",safe
+"How was your day?",safe
+"Please review the file",safe
+"I agree with your suggestion",safe
+"Let's discuss this issue",safe
+"Thanks for the update",safe
+"See you soon",safe
+"Everything is clear",safe
+"Your account has been suspended. Verify your identity here: http://secure-login-check.com",phishing
+"Security alert: unusual activity detected. Please confirm your login immediately.",phishing
+"We noticed a problem with your payment. Update your card details now.",phishing
+"Your email will be deactivated in 24 hours. Login to keep access.",phishing
+"Someone tried to access your account. Secure it here: http://account-protect-now.net",phishing
+"Bank notice: your card is temporarily blocked. Verify your information.",phishing
+"You received a secure document. View it here to continue.",phishing
+"Your password has expired. Reset it using the following link.",phishing
+"Delivery issue detected. Confirm your address to receive the package.",phishing
+"Tax service alert: incomplete information. Submit details now.",phishing
+"Your social media account violated our rules. Appeal here.",phishing
+"We detected a suspicious login attempt. Confirm it was you.",phishing
+"Important update from the support team. Login required.",phishing
+"Account verification failed. Please re-enter your credentials.",phishing
+"Your subscription will be cancelled. Update payment information.",phishing
+"Security warning: malware detected on your account. Scan now.",phishing
+"Unrecognized device logged into your account. Verify immediately.",phishing
+"Your profile will be deleted due to inactivity. Reactivate now.",phishing
+"Payment confirmation required. Login to approve the transaction.",phishing
+"New message from administrator. Access your account now.",phishing
+"Your wallet access is limited. Restore it using this link.",phishing
+"Verify your identity to avoid service interruption.",phishing
+"Urgent: confirm your account ownership now.",phishing
+"Your account is under review. Login required to proceed.",phishing
+"System alert: update your security settings immediately.",phishing
