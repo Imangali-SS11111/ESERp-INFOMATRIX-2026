@@ -27,8 +27,7 @@ model = Pipeline([
         lowercase=True,
         stop_words="english"
     )),
-    ("clf", LogisticRegression(max_iter=1000))
-])
+    ("clf", LogisticRegression(max_iter=1000))])
 
 model.fit(X_train, y_train)
 
